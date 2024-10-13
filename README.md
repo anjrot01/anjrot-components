@@ -6,7 +6,7 @@ Anjrot Components is a collection of reusable UI components built with React, Ty
 
 This project was created as part of a YouTube tutorial series. You can follow along with the development process and learn more about building a component library by watching our series at:
 
-[![React Typescript: Crea una libreria de Componentes](https://img.youtube.com/vi/9CU4jkxm-Ps/maxresdefault.jpg)](https://youtube.com/playlist?list=PLoOnCUvhzJYPbtVpYCqP98DoN0pKKImQo&si=wprpLVhejPrMa6YU "React Typescript: Crea una libreria de Componentes")
+[![React Typescript: Crea una libreria de Componentes](https://img.youtube.com/vi/9CU4jkxm-Ps/maxresdefault.jpg)](https://www.youtube.com/playlist?list=PLoOnCUvhzJYOk_s-NQOeWdzPaYmXZGzDj "React Typescript: Crea una libreria de Componentes")
 https://youtu.be/9CU4jkxm-Ps
 
 ## Project Overview
